@@ -1,2 +1,3 @@
-# Deep Learning in Driverless Car
-Deep Learning (CS677) Course Project
+### Deep Learning in Driverless Car
+In this course project, we studied the application of deep learning in driverless car. Driveless car, also known as robot car, autonomous car, is one of the technology that might change everyone's life in the future. Also it is a hot research and application area of deep learning. In this project, we first summarized the levels of automations for driverless car, also the advantages and disadvantages. Then we analyzed the sensors reqired for autnomous cars and the tasks in autonomous driving, including situation and environmental awareness, navigation and path planning, and maneuver control. 
+
